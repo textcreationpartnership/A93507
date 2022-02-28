@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some observations upon the posture of our affairs on the death of our late most gracious Queen.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93507</idno>
+            <idno type="STC">Wing S4541A</idno>
+            <idno type="STC">ESTC R233450</idno>
+            <idno type="EEBO-CITATION">43078151</idno>
+            <idno type="OCLC">ocm 43078151</idno>
+            <idno type="VID">151735</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151735)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2274:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some observations upon the posture of our affairs on the death of our late most gracious Queen.</title>
+               </titleStmt>
+               <extent>[4], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half-title on prelim. p. [1] (verso blank).</note>
+                  <note>Reproduction of original in: Lambeth Palace Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:151735:1" rendition="simple:additions"/>
+            <p>SOME OBSERVATIONS UPON THE Poſture of our Affairs, ON THE DEATH OF OUR LATE Moſt Gracious QUEEN.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:151735:2"/>
+            <pb facs="tcp:151735:2" rendition="simple:additions"/>
+            <p>SOME OBSERVATIONS UPON THE POSTURE OF Our Affairs, ON THE DEATH Of our late moſt <hi>Gracious Queen.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151735:3"/>
+            <pb n="1" facs="tcp:151735:3"/>
+            <head>SOME OBSERVATIONS UPON THE Poſture of our Affairs, ON THE DEATH OF OUR LATE Moſt Gracious QUEEN.</head>
+            <p>'TIS not intended that this Paper ſhou'd make any new Diſcoveries, neither my Buſineſs nor Inclination leads me among the Men of Intrigue in our State-Affairs; but the Conduct of our <hi>Roſe-Tavern Club,</hi> our <hi>W—ns,</hi> our <hi>G—ys,</hi> and the reſt of 'em, in a late Jun<g ref="char:EOLhyphen"/>cture,
+<pb n="2" facs="tcp:151735:4"/>carries ſo many Marks of their dangerous Deſigns in it, that no private Perſon in his idle Hours can paſs it over without ſome Refle<g ref="char:EOLhyphen"/>ction.</p>
+            <p>They will pretend, if it comes in their way, and they can by that means ſerve a Turn, That there is not ſuch a Creature as a Republican now in <hi>England;</hi> that, like Wolves, they had once a footing here, but their whole Race is now extinct: Yet upon the occaſion of the leaſt change in our Government they cannot contain themſelves; Had we not an Inſtance of their Good-will in <hi>Mon<g ref="char:EOLhyphen"/>mouth</hi>'s Rebellion? Did not the ſame Temper and Inclinations appear plainly in the Convention up<g ref="char:EOLhyphen"/>on the ſettlement of our preſent Government? Nor have they been wanting to put in their Claim upon the loſs of the late moſt excellent Queen; the Thoughts of the Princeſs <hi>Anne,</hi> ſo near as Heir Apparent of the Crown they cannot hear; ſhe is the ſupport to the Succeſſion of our Here<g ref="char:EOLhyphen"/>ditary Monarchy, for tho' one Link by the Act of Settlement is taken out, the Chain is not bro<g ref="char:EOLhyphen"/>ken; and beſides, ſhe is a viſible Security to the Church of <hi>England:</hi> and therefore, if poſſible, they
+<pb n="3" facs="tcp:151735:4"/>are to ſtep between her and the Throne; all they can do at preſent is to endeavour to make her odious to the People. To this purpoſe they indu<g ref="char:EOLhyphen"/>ſtriouſly ſpread their Rumours in the City and elſewhere, That ſhe was not reconcil'd to our good Queen before ſhe dy'd, but carry'd herſelf unhandſomely and barbarouſly to her in her ſick<g ref="char:EOLhyphen"/>neſs. And at the ſame time they were never more enrag'd, than when they knew how far the Na<g ref="char:EOLhyphen"/>tive Goodneſs of her Royal Highneſs led her upon that Sad Occaſion, and with what a Tenderneſs all Meſſages from <hi>Berkley</hi>-Houſe were receiv'd by the late Queen, and with what a kind Regard from his Majeſty, in the Condition that both were under, it was ſafe neither for the Queen nor Prin<g ref="char:EOLhyphen"/>ceſs to come together; but theſe Gentlemen, while with Falſe Reports they Aſperſe the Princeſs in Publick for her Ill Carriage to the Queen, in their Private Converſations they Curſe her for the Meſ<g ref="char:EOLhyphen"/>ſages ſhe ſent, and one of 'em cry'd at that time,
+<q>God Damn Her, who put that into her Head?</q>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:151735:5"/>
+'Tis not obſerved that the <hi>Jacobites</hi> themſelves ſhow any Dependance upon the Princeſs, they know they have no Ground for any Expectation there, and yet theſe Gentlemen report, That the Princeſs Treats underhand with the late King <hi>James</hi> to bring him in, and it has been whiſper'd by them in the Houſe of Commons, That it is neceſſary to have an Act of Parliament to ſecure the Kingdom from this Pretended Danger which their own Wicked Deſigns creates and ſpreads abroad; they would have a Law upon a bare Suggeſtion of their own fomenting, in a Caſe that would be High Treaſon in the Princeſs, if prov'd, as well as in any other: But we know what they mean, 'tis the <hi>Act of Settlement</hi> that they wou'd defeat, and becauſe they dare not yet directly ſet themſelves a<g ref="char:EOLhyphen"/>gainſt it, they deſire by theſe Arts to weaken it, tho' 'tis notoriouſly known they have felt the Pulſe of ſeveral in the Houſe of Commons about it, in Plain Terms, and not under the Colour of other Pretences Strange Weakneſs of Human Nature! that there ſhou'd be ſome Cheats, which, tho' ne<g ref="char:EOLhyphen"/>ver ſo long practis'd, and tho' never ſo often ex<g ref="char:EOLhyphen"/>ploded, ſhou'd ſtill obtain among Men. Has not the Name of Liberty, when made uſe of to under<g ref="char:EOLhyphen"/>mine
+<pb n="5" facs="tcp:151735:5"/>a Setled Government, ended in Univerſal Sla<g ref="char:EOLhyphen"/>very, and the Specious Pretences of Religion, when oppos'd to that Eſtablſh'd by Law, introduc'd a General Corruption of all the Common Principles of Juſtice and Vertue, and whatever is eſteem'd moſt ſacred among Men? Once, within the me<g ref="char:EOLhyphen"/>mory of ſeveral of us, we have experimented what a Common-wealth wou'd do in <hi>England,</hi> and then ſome at the Helm were ſober, juſt and brave, Re<g ref="char:EOLhyphen"/>ligion and Juſtice they pretended to make the Foun<g ref="char:EOLhyphen"/>dation upon which to build their Government, yet this ſoon fell into confuſion: And ſhall we now ſee the ſame thing attempted again, but with greater Diſadvantages? 'Tis now attempted by a Sett of Men, who are ſo far from any ſenſe of Religion in themſelves, that they will not allow of ſo much as the Form of it in Publick; Men, that are ei<g ref="char:EOLhyphen"/>ther Bankrupts in their Fortunes, or Cowards in their Perſons; Men, that have ſpent their Eſtates in the moſt ſcandalous open Debaucheries, and now turn Patriots to repair them; that were ne<g ref="char:EOLhyphen"/>ver known to be at any Divine Service whatſoever, except when they receive the Sacrament in the Church of <hi>England,</hi> to qualifie them to take a Place that they may deſtroy it; Men, that Vapour
+<pb n="6" facs="tcp:151735:6"/>and give Ill Language in the Houſe of Commons, where no Man ought to give an Affront, becauſe it muſt not there be reſented: But tho' ſome of theſe Strut in the Houſe, they Speak as tamely when they are out of it.</p>
+            <p>What ſuch Men as theſe can expect from a Common-wealth, I cannot imagine; for were it come to that, Power would fall to the braveſt and beſt amongſt us, and then their Qualifications of Cowardize and Knavery will render them con<g ref="char:EOLhyphen"/>temptible, as they deſerve to be. 'Tis our Miſ<g ref="char:EOLhyphen"/>fortune in <hi>England,</hi> and his Majeſty feels the great<g ref="char:EOLhyphen"/>eſt ſhare of it, That the Party, that theſe Gentle<g ref="char:EOLhyphen"/>men manage, is ſo great, that they can obſtruct Buſineſs, if they are not imploy'd in it: Many In<g ref="char:EOLhyphen"/>ſtances in the Houſe of Commons we have had of this, but the King knows they cannot be ſincere<g ref="char:EOLhyphen"/>ly for him, who are open Enemies to all Kings; that they cannot be for the good of the Govern<g ref="char:EOLhyphen"/>ment ſetled by Law, who are reſtleſs in their in<g ref="char:EOLhyphen"/>deavours to bring all things into confuſion: But the Exigence of our Affairs, during this great War, neceſſitates his Majeſty to make uſe of ſome of them; were their Characters as well known by
+<pb n="7" facs="tcp:151735:6"/>the generality of the People, as they are by thoſe that have the opportunity to obſerve their Actions more nearly, they would not have intereſt enough to call themſelves a Party; but the greateſt part of Mankind are guided by the appearance of things, and conſequently eaſily liable to be deceiv'd: But it is hop'd, that the bold Meaſures they were taking in the late Juncture, of which I have given ſome hints, has a little expos'd 'em to the World; they wou'd not have ſtopp'd ſo ſoon, but the happy Reconcilia<g ref="char:EOLhyphen"/>tion between the King and Princeſs, for the pre<g ref="char:EOLhyphen"/>ſent, ended their carreer: The continuance of this Happy Union is what every good Man prays for, and they only lament; 'tis ſo publick now, that they cannot deny it; yet they ſurmiſe, that it can<g ref="char:EOLhyphen"/>not laſt long, and you may know them by their feigned Doubts, whenever the fair Correſpondence between the King and Princeſs is ſpoke of; but, bleſſed by God, it is gone ſo far, that it has forc'd them to be quiet in that matter.</p>
+            <p>The next thing they turn'd their thoughts upon, is to promote an Act of Abjuration, in relation to the late King; this is a Maſter-piece, and only fit for the ſcrutore of a Secretary of State; this is
+<pb n="8" facs="tcp:151735:7"/>intended to render all the Church of <hi>England</hi>-men uncapable of ſerving our King, and will reduce his Majeſty, contrary to all Maxims of State and Reaſon, to be the Head of their Party, inſtead of being undoubted King of all <hi>England.</hi> 'Tis Wiſ<g ref="char:EOLhyphen"/>dom in every Government to make its Founda<g ref="char:EOLhyphen"/>tion as wide as may be, and ſhall we now, in time of danger, make the Foundation of ours narrower? The Laws of our Land know no ſuch term as the word Abjuration, in the ſenſe they wou'd impoſe it upon the Subject; no Oath can be impos'd up<g ref="char:EOLhyphen"/>on the Subjects of this Realm, other than what is impos'd and enjoyn'd by Act of Parliament, and that only concerning lawful and indifferent things; but this new Oath they would introduce, is, in the opinion of many of the King's true and faithful Subjects, contrary to the Law and Word of God and Nature, and there was nothing like it ever heard of in the Practice or Laws of our Kingdom, till theſe Gentlemen, two Years ago, promoted it in the Houſe of Commons, where it was thrown out: In a word, it is againſt Reaſon, Conſcience, Honour or Policy, either to require it or take it; 'twas in ſuch Practices as theſe that the Tyranny of the late Civil Wars conſiſted, but they never
+<pb n="9" facs="tcp:151735:7"/>proceeded to impoſe ſuch an Oath, Subſcriptions were once requir'd, but that was when the Ar<g ref="char:EOLhyphen"/>my enſlav'd, and a Committee of it govern'd the whole Kingdom.</p>
+            <p>Let theſe Gentlemen flatter themſelves in their own vain Imaginations as long as they pleaſe, let them contrive the building their own Fortunes upon the ruin of the Publick, every true Engliſh<g ref="char:EOLhyphen"/>man knows, that we have a good Government ſet<g ref="char:EOLhyphen"/>led in the Perſon of our King; that the Monarchy is ſecur'd by the <hi>Act of Settlement;</hi> and that the Church of <hi>England,</hi> as eſtabliſh'd by Law, is ſuited for the preſervation of the preſent King, as well as of all other, in their due Prerogatives; that the Hereditary Monarchy is part of the Con<g ref="char:EOLhyphen"/>ſtitution of our Government, and that the Church of <hi>England</hi> has been long made ſo too; that the Church and State, as they are fram'd and ſupport<g ref="char:EOLhyphen"/>ed by our Laws, are ſo adapted the one for the other, that their Welfare is reciprocal, and their Intereſts are ſo interwoven each with the other, that to pull down the Monarchy, the Church muſt be undermin'd.</p>
+            <p>
+               <pb n="10" facs="tcp:151735:8"/>
+And this is the Source of that Rage that theſe Gentlemen ſhew upon all occaſions againſt it: The Doctrins and Principles of the Church cannot of<g ref="char:EOLhyphen"/>fend their Conſciences who pretend to no Reli<g ref="char:EOLhyphen"/>gion, why do they then oppoſe it, but becauſe they apprehend it obſtructs their other Deſigns.</p>
+            <p>
+               <hi>While we chearfully and vigorouſly carry on the War against our Enemies abroad, under a Prince that is Vertuous, Wiſe, and Brave, let every ho<g ref="char:EOLhyphen"/>nest Heart joyn in their Prayers against theſe Enemies to our Peace as Home,</hi> That God Al<g ref="char:EOLhyphen"/>mighty would abate their Pride, aſſwage their Malice, and confound their Devices.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
